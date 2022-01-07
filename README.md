@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Jeongjin's github stats](https://github-readme-stats.vercel.app/api?username=onsemy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onsemy&hide=java,html,ShaderLab&theme=radical&line_height=27" alt="Jeongjin's github stats" /> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=onsemy&count_private=true&show_icons=true&theme=radical&line_height=27" alt="Jeongjin's github stats" />
+</p>
 
 <!--
 **onsemy/onsemy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
